@@ -46,7 +46,15 @@ body {
 
 .modal-btn:hover,
 .modal-btn:focus {
-  color: #188ce8;
+  background-color: #188ce8;
+  color: #ffffff;
+}
+
+.footer {
+  background: #2f303a;
+}
+.hero {
+  background: #2f303a;
 }
 /* ============= END COMPONENTS ============= */
 
@@ -64,7 +72,7 @@ body {
 }
 
 .logo-link-dark-theme {
-  /* color: #ffffff; */
+  color: #ffffff;
 }
 
 .logo-txt {
@@ -127,7 +135,11 @@ body {
   line-height: 60px;
   letter-spacing: 0.06em;
 
-  /* color: #FFFFFF; */
+  color: #ffffff;
+}
+
+.team {
+  background: #e5e5e5;
 }
 
 /* ============= END HERO ============= */
